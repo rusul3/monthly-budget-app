@@ -1,5 +1,3 @@
-# monthly-budget-app
-Monthly Budget App: A user-friendly tool for tracking and managing personal finances, helping users visualize income, expenses, and savings goals effortlessly.
 # Monthly Budget App
 
 The Monthly Budget App is an intuitive finance management tool built with Python and Tkinter, designed to help users track and manage their personal finances efficiently. This application allows users to input various sources of income and monthly expenses including rent, groceries, utilities, and entertainment, plus it offers the flexibility to add miscellaneous expenses. The final output displays a detailed summary of total expenditures and savings, providing a clear picture of financial health.

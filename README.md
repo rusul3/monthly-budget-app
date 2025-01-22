@@ -14,3 +14,7 @@ The Monthly Budget App is an intuitive finance management tool built with Python
 Watch a quick demonstration of how the Monthly Budget App works:
 https://drive.google.com/file/d/1b3tpqsZs9XfOTr2MxNB1n9mDxj2SHwLd/view?usp=drive_link 
 
+## Figma Design
+![UI Design](UIFigma.png "UI Design Example")
+
+
